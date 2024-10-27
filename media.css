@@ -1,0 +1,246 @@
+@media screen and (min-width:320px) and (max-width:570px){
+
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    .header{
+display: none;
+    }
+    .developers h1{
+       text-align: center;
+       margin-top: 10px;
+        font-size: 22px;
+      
+        
+    }
+    
+    .developers a{
+        margin-left: 87px;
+        font-size: 13px;
+        padding: 8px 20px;
+       
+    }
+    .developers p{
+        text-align: center;
+        font-size: 15px;
+    }
+    .developers{width: unset;
+        /* text-align: center; */
+        
+    }
+    .many{
+        flex-direction: column;
+        width: unset;
+    }
+    .hello {
+        flex-direction: column;
+        margin: unset;
+    }
+    .content{
+        flex-direction: column;
+    }
+    .ss{
+        flex-direction: column; 
+        
+    }
+    .for{
+        flex-direction: column;
+    }
+    .sss{
+        flex-direction: column;
+    }
+    .own{
+        flex-direction: column;
+    }
+    
+    .box6{
+        /* width: 200px; */
+        height: 300px;
+    }
+    .box6{
+        width: unset;
+        height: unset;
+        margin: 0px;
+    }
+    .box5{
+        height: unset;
+    }
+    .fine{
+       
+        flex-direction: column;
+    }
+    .job{
+        flex-direction: column;
+    }
+    .code{
+        flex-direction: column;
+    }
+    .fit{
+        /* width: 180px; */
+        height: 200px;
+    }
+    .you1{
+        width: 275px;
+        height: unset; 
+        padding: 10px;
+    }
+    .rightfitt{
+        width: 270px;
+        height: 150px;
+    }
+    
+        .The {
+            margin: 31px 0px;
+            padding: 20px 10px;
+            width: 278px;
+            height: 230px;
+    }
+    .The img{
+        width: 100%;
+        height: 100%;
+    }
+    .top{
+        height: unset;
+    }
+    .maya{
+        height: unset;
+    }
+    .maya h3{
+        font-size: 15px;
+        padding: 10px 10px;
+      
+    }
+    .to h2{
+        font-size: unset;
+        margin-top: unset;
+        margin-top: 4px;
+    }
+    .main{
+        height: unset;
+    }
+    .you1 h4{
+        padding-top: unset;
+        font-size: unset;
+    }
+    .name1 img{
+        height: unset;
+        padding: 15px;
+    }
+    .meet h3 {
+        font-size: 22px;
+    }
+    .most h2 {
+        font-size: 20px;
+        
+        padding: 2rem;
+       
+    }
+    hr{
+        width: unset;
+    }
+    .right h2 {
+        margin-top: 15px;
+        font-size: 20px;
+    }
+    .fit img{
+        width: unset;
+        height: 93%;
+        margin: 25px 30px ;
+    }
+    .Money img {
+        height: 80%;
+        width: 90%;
+    }
+    .you1 p{
+        width: 261px;
+        font-size: 15px;
+    }
+    .rightfitt h4 {
+        margin: 10px 0px;
+}
+.rightfitt p {
+    /* width: 300px; */
+    margin-bottom: 70px;
+    font-size: 15px;
+}
+.ppp p{
+    width: unset;
+}
+
+.ee {
+    margin-right: 25px;
+    display: flex;
+    justify-content: space-around
+}
+.content ul li {
+   
+  
+    margin: 6px;
+   
+}
+.box5 h4 {
+    padding: 20px;
+    font-size: 15px;
+}
+.bbb p{
+    font-size: 17px;
+}
+
+.box6 h4 {
+    margin-left: 17px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.box5 p{
+    font-size: 13px;
+}
+
+.box6 p{
+    font-size: 15px;
+}
+.us a{
+    font-size: 14px;
+    padding: 10px 15px;
+    margin-bottom: 30px;
+}
+
+.rightfit_circle {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    padding-top:0px ;
+    font-size: 15px;
+}
+.Senior ul {
+    margin-right: -54px;
+}
+.baar {
+    margin: 20px;
+    width: 122px;
+    height: 35px;
+}
+.apply a{
+    padding: 6px 18px;
+    font-size: 12px;
+}
+.no a{
+    padding: 5px 15px;
+    font-size: 12px;
+}
+.manish h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.manish p{
+
+     font-size: 13px;
+     padding: 0px 10px;   
+}
+.join{
+    width: unset;
+}
+    
+}

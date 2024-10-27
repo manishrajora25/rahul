@@ -1,0 +1,1057 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins";
+}
+
+.header {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.mylist ul  {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none; 
+
+}
+
+.mylist ul a{
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    
+}
+.developers  a{
+    text-decoration: none;
+    background-color: #4E0FEA;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 30px; 
+    font-size: 18px;
+    font-weight:bold;
+    
+}
+
+.name a{
+    color: white !important; 
+}
+.logo{
+     
+    width: 130px;
+}
+.logo img{
+    height: 100%;
+    width: 100%;
+}
+
+.many{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.developers{
+    width: 600px;
+}
+
+.developers h1{
+    font-size: 50px;
+    
+}
+.developers p{
+    padding: 20px 0;
+}
+ .name a {
+    text-decoration: none;
+    background-color: #4E0FEA;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 30px; 
+    font-size: 18px;
+    font-weight:bold;
+}
+.The{
+    /* width: 400px; */
+    height: 250px;
+   
+
+   
+
+}
+.The img{
+    width: 100%;
+    height: 100%;
+}
+.maya{
+
+    background-color: #ECEEF1;
+    height: 200px;
+    width: 100%;
+}
+.maya h3{
+    text-align: center;
+    padding-top: 50px;
+}
+.hello{
+    margin: 20px 60px 0px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+ .name1 img{
+    width: 100px;
+    height: 40px;
+}
+.img{
+    width: 100%;
+    height:100% ;
+
+}
+.meet h3{
+    text-align: center;
+    margin-top:  40px; 
+    font-size: 30px;
+}
+  .backgraund{
+  background-image: url(/wp-content/uploads/2022/04/our-commitment-bg-1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    background-color: #eee;
+}
+.box1{
+    width: 280px;
+    height: 550px;
+   margin: 50px;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.137);
+    border-radius: 15px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.box1 h4{
+   margin-bottom: 10px;
+
+}
+.box1 p{
+    margin: 20px;
+}
+
+
+.content {
+    margin-right: 100px;
+    margin-left: 102px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.content ul li{
+    color: #55535C;
+    background-color: #E5E6E7;
+    list-style: none;
+    padding: 2px 2px;
+    margin: 10px;
+    border-radius: 20px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    font-size:  17px;
+}
+.eone{
+    width:100px;
+    height: 100px;
+    padding-bottom: 10px;
+    margin: auto;
+}
+.eone img{
+    height: 100%;
+    width: 100%;
+}
+
+.can{
+    width: 60px;
+   
+}
+.reactJS{
+    width: 90px;
+}
+.Net{
+    width: 70px;
+}
+.MSSQL{
+    width: 85px;
+}
+.css{
+    width: 70px;
+}
+
+
+
+.MongoDB{
+    width: 100px; 
+}
+.Codelgnitor{
+    width: 120px;
+}
+.Symphony{
+    width:110px ;
+}
+.MEAN{
+    width: 75px;
+}
+.NodeJS{
+    width: 90px;
+}
+
+.Tailwind{
+    width: 110px;
+}
+.Typescript{
+    width: 120px;
+}
+.Gatsby{
+    width: 95px;
+}
+.Next{
+    width: 85px;
+}
+
+.ss{
+    display: flex;
+justify-content: space-around;
+}
+.ee{
+    display: flex;
+    justify-content: space-around;
+}
+.telent{
+    margin-top: 20px;
+}
+
+
+.main{
+    background-image: url("https://www.codebase.com/wp-content/uploads/2022/04/our-commitment-bg-1.jpeg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   width: 100%;
+   height: 550px;
+}
+
+.to h2{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 70px; 
+    font-size: 35px;
+
+}
+
+.ss img{ 
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+.ss h4{
+    padding: 20px;
+   
+}
+  
+.ss span{
+    padding: 30px;
+}
+.you1{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.534);
+  
+    border-radius: 20px ;
+    width: 350px;
+    height: 300px;
+    text-align:center;
+    margin-top: 50px;
+
+}
+.Money{
+    height: 100px;
+    width: 100px;
+    margin: auto
+}
+
+.Money img{
+    height: 100%;
+    width: 100%;
+}
+
+.you1 h4{
+    padding-top: 35px;
+    font-size: 22px;
+}
+
+.ss{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.top{
+    width: 100%;
+    height: 700px;
+    background-color: #f1f1f110;
+}
+
+.most h2{
+    text-align: center;
+    padding: 80px;
+}
+.box5{
+    text-align: left;
+    height: 250px;
+    width: 350px;
+    padding: 20px;
+
+}
+.box6 h4{
+    margin-left: 15px;
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+.box5 h4{
+    padding: 20px;
+    font-size: 20px;
+
+}
+
+.box5 img{
+    height: 30px;
+    width: 30px;
+}
+
+.bbbb{
+    display: flex;
+        align-items: center;   
+}
+.fff{
+    display: flex;
+    align-items: center;
+}
+
+.vvv{
+    display: flex;
+    align-items: center;
+}
+
+.ooo{
+    display: flex;
+    align-items: center;
+}
+.ppp{
+    display: flex;
+    align-items: center;
+}
+
+.nnn{
+    display: flex;
+    align-items: center;
+}
+
+.for{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box6{
+    margin-top: 30px;
+    text-align: left;
+    height: 250px;
+    width: 350px;
+    padding: 20px;
+}
+
+.box6 img{
+    height: 30px;
+    width: 30px;
+    margin-bottom: 20px;
+}
+
+.fine{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.rightfit_circle
+{
+
+    border: 2px solid darkblue;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+
+.rightfitt h4{
+    margin: 10px;
+}
+
+.rightfitt p{
+margin-bottom: 70px;
+}
+
+.right h2{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 35px;
+}
+.fit{
+    width: 250px !important;
+    /* height: 410px !important;   */
+    
+}
+.fit img{
+    width: 100% !important;
+    height: 100% !important;
+    /* margin-top: 35px; */
+  
+}
+.own{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.rightfitt{
+    width: 600px;
+    height: 100px;
+}
+.www{
+
+    margin-top: 35px
+
+}
+.sss{
+     margin: 30px;
+    display: flex;
+} 
+
+.us a{
+    text-decoration: none;
+    background-color: #4E0FEA;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 30px; 
+    font-size: 18px;
+    font-weight:bold;
+}
+
+/* .maps{
+    /* width: 300px;
+    height: 200px; */
+/* } */ */
+.maps{
+    width: 100%;
+    height: 640px;
+    margin-top: 80px;
+
+}
+
+.join{
+    width: 100%;
+    height: 300px;
+    color: white;
+    background-color: #4E0FEA;
+    margin-top: 20px;
+}
+
+.manish{
+    padding-top: 50px;
+    text-align: center;
+
+}
+.manish h2{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.job{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.apply a{
+
+    text-decoration: none;
+    background-color: #4E0FEA;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 30px; 
+    font-size: 18px;
+    font-weight:bold;
+    border: 2px solid white;
+    margin: 20px;
+}
+.no a{
+    text-decoration: none;
+    background-color: #4E0FEA;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 30px; 
+    font-size: 18px;
+    font-weight:bold;
+    color: #4E0FEA;
+    background-color:white;
+    margin: 20px;
+}
+
+.codebase{
+    width: 100%;
+    height: 250px;
+    background-color:#4719ff;
+}
+
+.code{
+    padding-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.baar{
+    width: 150px;
+    height: 35px;
+}
+.baar img{
+    width: 100%;
+    height: 100%;
+    padding-left: 20px;
+}
+
+.baar ,li{
+    list-style: none;
+}
+
+.Senior ul{
+    color: white;
+    display: flex;
+}
+.Senior a , li{
+    text-decoration: none;
+    margin-right: 30px;
+    color: white;
+    font-size: 20px;
+
+}
+.ten{
+    display: flex;
+   background-color: red;
+    font-size: 20px;
+    margin-left: 66rem; 
+   
+    
+}
+.one{
+    color: white;
+    height: 50px;
+    width: 20px;
+    padding: 0px 15px 0px 15px ;
+
+}
+
+
+
+
+
+
+
+
+
+/* 
+ .our h1{
+    text-align: center;
+    margin: 60px 0px 90px 0px ;
+    font-size: 30px;
+}
+
+.box7 h4{
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.box7{
+    width: 360px;
+    height: 240px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 14px;
+}
+.name3{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.box8 h4{
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.box8{
+    width: 360px;
+    height: 220px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 14px;
+}
+
+.name4{
+    margin-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.goal{
+    height: 80px;
+    width: 80px;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: relative;
+    bottom: 50px;
+    background-color: white;
+    
+}
+.goal img{
+    width: 100%;
+    height: 100%; 
+    margin: 0 auto;
+}
+.deep{
+    padding-bottom: 30px;
+}
+
+
+.solution{
+    width: 100%;
+    height: 830px;
+    margin-top: 40px;
+    background-color: #4e0fea;
+    text-align: center;
+}
+
+.have{
+    margin: 50px;
+    text-align: center;
+}
+.have h2{
+    margin: 25px;
+    font-size: 30px;
+}
+.have p{
+    margin: 15px;
+}
+.have a{
+    color: white;
+    background-color: #4719ff;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 8px 22px 8px 22px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+.look{
+    height: 500px;
+    background-color: #F1F1F1;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.Take{
+    width: 600px;
+    height: 500px;
+    margin-left: 50px;
+}
+.Take h1{
+    font-size: 50px; 
+}
+.Take p{
+    padding: 20px 0;
+}
+.great a{
+    color: white;
+    background-color: #4E0FEA;
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-top: 50px;
+    border-radius: 10px; 
+    font-size: 18px;
+    font-weight:bold;
+}
+.simpal{
+    height: 450px;
+    width: 450px;
+}
+
+.simpal img{
+    height: 100%;
+    width: 100%;
+}
+
+.host h3{
+    margin: 30px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.start{
+    width: 350px;
+    height: 370px;
+
+}
+.start img{
+    width: 100%;
+    height: 100%;
+}
+.business {
+    text-align: center;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.into{
+    padding: 10px;
+      background-color:#F1F1F1;
+      text-align: center;
+}
+.into a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+.into p{
+    padding-top: 20px;
+}
+
+.howtostart{
+    width: 100%;
+    height: 600px;
+    background-color: #F1F1F1;
+}
+.starta h1{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 60px;
+    /* font-weight: bold; */
+}
+/* .starta p {
+      text-align: center;
+      padding-top: 20px;
+}
+
+.paid{
+    height: 150px;
+    width: 150px;
+}
+
+.paid img{
+    height: 100%;
+    height: 100%;
+
+}
+.paid a{
+  margin: 20px;
+  text-decoration: none;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.815);
+ 
+} */
+
+/* .paid p{
+    width: 270px;
+    margin-top: 10px;
+    padding-left: 18px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.top5 {
+    margin-top: 70px;
+    padding-right: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+
+
+.Venture {
+    width: 100%;
+    height: 600px;
+ 
+}
+.starta h1{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 60px;
+    /* font-weight: bold; */
+/* }
+.starta p {
+      text-align: center;
+      padding-top: 20px;
+}
+
+.paid{
+    height: 150px;
+    width: 150px;
+}
+
+.paid img{
+    height: 100%;
+    height: 100%;
+
+}
+.paid a{
+  margin: 20px;
+  text-decoration: none;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.815);
+ 
+}
+
+.paid p{
+    width: 270px;
+    margin-top: 10px;
+    padding-left: 18px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.top5 {
+    margin-top: 50px;
+    padding-right: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+} 
+
+    
+
+
+
+
+.contectus h1{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 35px;
+
+}
+
+.helpyou{ */
+    /* margin-top: 30px;
+    width: 100%;
+    height: 550px;
+    background-color: #4719ff;
+}
+.succeed h2{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 35px;
+
+}
+ label{
+    color: white;
+ }
+ .maggik{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ .first{
+    margin: 15px;
+
+
+ }
+ .last{
+    margin: 15px;
+ }
+ .first input{
+    width: 550px;
+    height: 40px;
+    
+ }
+ 
+ .last input{
+    margin-right: 45px;
+    width: 550px;
+    height: 40px;
+ }
+
+ .shareme { */
+    /* display: flex;
+    justify-content: center;
+   
+}
+ 
+
+.evert{
+    margin: 15px;
+}
+
+.thisknow{
+    margin: 15px;
+}
+.evert input{
+    /* margin-right: 110px; */
+    /* width: 550px;
+    height: 40px;
+   
+}
+
+.optionset select{
+    
+    width: 200px;
+    height: 40px; 
+  
+    
+}
+.thisknow{
+    margin-top: 40px;
+    display: flex;
+   align-items: center;
+    justify-content: center;
+}
+.number input{
+    margin-top: 25px;
+    width: 400px;
+    height: 40px;
+} */
+
+/* .frthis {
+
+    margin-left: 82px;
+}
+
+.frthis textarea{
+    width: 1150px;
+    height: 50px;
+}
+
+
+
+.mrebe{
+    margin: 80px;
+}
+
+.mrebe button{
+    padding: 10px;
+}
+
+.salt{
+    margin-top: 130px;
+    width: 600px;
+    height: 170px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 100px;
+    }
+
+    .pune{
+        margin-top: 130px;
+        width: 600px;
+        height: 170px;
+        border: 1px solid black;
+        border-radius: 20px;
+        text-align: center;
+        padding-top: 100px;
+    }
+
+    .lakecity{
+        margin-top: 130px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .mytrip{
+        position: relative;
+    }
+    .tripthe{
+        height: 150px;
+        width: 150px;
+        background-color: white;
+        position: absolute;
+        left: 280px;
+        bottom: 100px;
+    }
+
+    
+    
+    .tripthe img{
+        height: 100%;
+        width: 100%;
+    }
+
+    .tripof{
+        height: 130px;
+        width: 130px;
+        background-color: white;
+        position: absolute;
+        left: 930px;
+        bottom: 115px;
+       
+
+        
+    } */
+
+    /* .tripof img{
+        height: 150px;
+        width: 150px;
+    }
+
+    .givud{
+        margin-top: 50px;
+        padding-top: 50px;
+        text-align: center;
+    }
+    .givud h3{
+        margin: 30px;
+        font-size: 30px;
+
+    }
+
+    .givud a{
+        color: white;
+        margin: 40px;
+        background-color: #4719ff;
+        padding: 5px 25px;
+        text-decoration: none;
+        font-size: 20px;
+        border-radius: 20px;
+    
+
+    }  */
